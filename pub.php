@@ -1,6 +1,6 @@
  <?php
  function pubMqtt($topic,$msg){
-       $APPID= "iotadminsession/"; //enter your appid
+       $APPID= "IoTPendeteksiGempa/"; //enter your appid
      $KEY = "YTfZx61xMNTTMm6"; //enter your key
     $SECRET = "cSKuYZfHtL6cLkHDHJUTyGvDl"; //enter your secret
     $Topic = "$topic"; 
