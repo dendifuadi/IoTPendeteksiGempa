@@ -1,2 +1,2 @@
 <?php
-echo "Hello Admin IoT Pendeteksi Gempa";
+echo "Haloo Admin IoT Pendeteksi Gempa";
